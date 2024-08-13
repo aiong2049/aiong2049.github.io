@@ -1,1 +1,1 @@
-# loongarch
+# loongarc
